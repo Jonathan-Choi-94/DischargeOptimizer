@@ -1,0 +1,8 @@
+Package: libpqxx
+Version: 7.6.0
+Depends: libpq
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 47a8cdad8edb11ec1904782b702fe977f6951bce3b4ca7c7ad70bfe96d0d0a91
+Description: The official C++ client API for PostgreSQL
+Type: Port

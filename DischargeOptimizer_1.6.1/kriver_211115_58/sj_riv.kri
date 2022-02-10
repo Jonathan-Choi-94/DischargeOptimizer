@@ -1,0 +1,15 @@
+# This file is KRiver input file for SJ project
+# Refer to the manual for how to set a input file
+# WARNING: do not make space line
+#
+# Project_name: SJ
+Read_RAS_geo_file: sj_riv.geo
+Read_boundary_file: sj_riv_boundary.txt
+Read_initial_file: sj_riv_initial_condition.txt
+Set_time_step: 3600
+Set_sim_period: 864000
+Set_sim_time: 2021/11/10 00:00:00, 2021/11/20 00:00:00, 3600
+Set_outlet_river: Seomjin, main_down
+Set_spatial_scheme: 1st
+Transform_proj: google
+Read_DRUM_file: Check_Point.OUT, DRUM_input_xy.txt

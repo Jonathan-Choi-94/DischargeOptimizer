@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(505,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Main.cpp
+D:\00_Programming\DischargeOptimizer_1.6.1\libpqxx_x64-windows\include\pqxx\field.hxx(334,5): warning C5051: attribute 'unlikely' requires at least '/std:c++latest'; ignored
+D:\00_Programming\DischargeOptimizer_1.6.1\libpqxx_x64-windows\include\pqxx\field.hxx(372,5): warning C5051: attribute 'unlikely' requires at least '/std:c++latest'; ignored
+D:\00_Programming\DischargeOptimizer_1.6.1\libpqxx_x64-windows\include\pqxx\pipeline.hxx(194,5): warning C5051: attribute 'unlikely' requires at least '/std:c++latest'; ignored
+D:\00_Programming\DischargeOptimizer_1.6.1\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+D:\00_Programming\DischargeOptimizer_1.6.1\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+D:\00_Programming\DischargeOptimizer_1.6.1\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+D:\00_Programming\DischargeOptimizer_1.6.1\eigen-3.4.0\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+D:\00_Programming\DischargeOptimizer_1.6.1\Main.cpp(91,36): warning C4459: declaration of 'g_dataprocessor' hides global declaration
+D:\00_Programming\DischargeOptimizer_1.6.1\Main.cpp(15,16): message : see declaration of 'g_dataprocessor'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+D:\00_Programming\DischargeOptimizer_1.6.1\DamCorrelation.h(82): warning C4715: 'Juam::GetVolume': not all control paths return a value
+D:\00_Programming\DischargeOptimizer_1.6.1\DamCorrelation.h(44): warning C4715: 'Seomjin::GetVolume': not all control paths return a value
+D:\00_Programming\DischargeOptimizer_1.6.1\ReservoirPredictionModel.cpp(235): warning C4715: 'ReservoirPredictionModel::CalculateReservoirLevel': not all control paths return a value
+  All 5966 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DischargeOptimizer.vcxproj -> D:\00_Programming\DischargeOptimizer_1.6.1\bin\Release\DischargeOptimizer.exe
