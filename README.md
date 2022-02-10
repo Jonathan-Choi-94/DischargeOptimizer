@@ -1,7 +1,6 @@
 # DischargeOptimizer
 
 댐을 포함하고 있는 강 유역에서 향후 강우 예측량을 받아서 홍수 피해가 최소화되는 방향으로 댐의 방류량을 최적화 하는 소스입니다.
-
 This is the source code for optimizing discharge to minimize a damage from flood at the riverside.
 
 특징:
