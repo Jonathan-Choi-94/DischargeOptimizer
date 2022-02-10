@@ -1,7 +1,8 @@
 # DischargeOptimizer
 
 댐을 포함하고 있는 강 유역에서 향후 강우 예측량을 받아서 홍수 피해가 최소화되는 방향으로 댐의 방류량을 최적화 하는 소스입니다.
-This is the source code for optimizing discharge to minimize a damage from flood at the riverside
+
+This is the source code for optimizing discharge to minimize a damage from flood at the riverside.
 
 특징:
 - HEinsSim 이라는 (주)아인스에스엔씨 소유의 시뮬레이션 엔진을 사용하여 강 유역 핵심 포인트들에 대한 수위을 예측하도록 되어 있습니다.
